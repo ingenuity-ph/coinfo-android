@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coinfo</string>
+
+    <string name="live_url">https://chasing-coins.com/</string>
+
+    <string name="loading">Processing…</string>
+    <string name="search">Search…</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="logo_url" translatable="false">https://chasing-coins.com/api/v1/std/logo/%s</string>
+</resources>
