@@ -83,7 +83,7 @@ the changes in the data.
 > Whenever there are changes in the data for the list of coins,
 the RecyclerView adapter will be updated and the list will also be updated.
 
-> The api client uses **Retrofit 2** for API calls
+> The API client uses **Retrofit 2** for API calls
 
 [1]: https://chasing-coins.com/api
 [2]: https://developer.android.com/topic/libraries/architecture/index.html
